@@ -1,0 +1,43 @@
+.masthead {
+    background-color: #1d6451!important;
+}
+
+.bg-primary {
+    background-color: #1d6451!important;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link.active {
+    color: #1d6451;
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active {
+    background-color: #1d6451!important;
+    color: white;
+}
+
+.bg-secondary {
+    background-color: #fdb92e!important;
+    color: #1d6451!important;
+}
+
+.text-secondary {
+    color: #fdb92e!important;
+}
+
+.divider-custom .divider-custom-line {
+    background-color: #fdb92e;
+    border-color: #fdb92e;
+}
+
+.divider-custom .divider-custom-icon {
+    color: #fdb92e;
+}
+
+.bg-default-gms {
+    background-color: #1d6451;
+    color: white;
+}
+
+.copyright {
+    background-color: #1d6451;
+}
